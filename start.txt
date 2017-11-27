@@ -2,9 +2,4 @@ Welcome to Angular 2 POC
 .
 .
 .
-Angular 4 started
-
-..
-.
-.
-Angular 5 started
+Node.js started
